@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['run.py'],
-             pathex=['D:\\LF\\localGit\\Yotool'],
+             pathex=['D:\\LF\\localGit\\Yotool\\ui'],
              binaries=[],
              datas=[],
              hiddenimports=[],

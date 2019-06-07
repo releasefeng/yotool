@@ -1,0 +1,20 @@
+<RCC>
+  <qresource>
+	<file alias="icons/logo.png">icons/logo.png</file>
+	<file alias="icons/map.png">icons/map.png</file>
+	<file alias="icons/login.png">icons/login.png</file>
+	<file alias="icons/firmware.png">icons/firmware.png</file>
+	<file alias="icons/up.png">icons/up.png</file>
+	<file alias="icons/set.png">icons/set.png</file>
+	<file alias="icons/log.png">icons/log.png</file>
+	<file alias="icons/clear.png">icons/clear.png</file>
+	<file alias="icons/wifi.png">icons/wifi.png</file>
+	<file alias="icons/tuoluo.png">icons/tuoluo.png</file>
+	<file alias="icons/battery.png">icons/battery.png</file>
+	<file alias="icons/chaoshen.png">icons/chaoshen.png</file>
+	<file alias="icons/IR.png">icons/IR.png</file>
+	<file alias="icons/open.png">icons/open.png</file>
+	<file alias="icons/montor.png">icons/montor.png</file>
+	<file alias="icons/denguang.png">icons/denguang.png</file>
+  </qresource>
+</RCC>

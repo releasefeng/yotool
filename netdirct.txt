@@ -1,0 +1,12 @@
+kago 192.168.79.200 22 yogo yogo
+kago 192.168.80.201 22 yogo yogo
+mingo 192.168.79.200 22 firefly firefly
+mingo 192.168.80.201 22 firefly firefly
+kago 192.168.79.200 22 firefly firefly
+kago 192.168.80.201 22 firefly firefly
+kago 192.168.79.200 22 linaro linaro
+kago 192.168.80.201 22 linaro linaro
+Mingo 192.168.79.200 22 yogo yogo
+mingo 192.168.80.201 22 yogo yogo
+mingo 192.168.79.200 22 linaro linaro
+mingo 192.168.80.201 22 linaro linaro
